@@ -1,6 +1,6 @@
 #  📜 Citações Web Crawler
 
-![Quotes To Scrape](img/website-quotes-scrape.png "Website Quotes to Scrape")
+![Quotes To Scrape](img/website_quotes_scrape.png "Website Quotes to Scrape")
 
 ## Criando Um Novo Projeto
 
