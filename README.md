@@ -192,7 +192,7 @@ scrapy crawl citacoes -o citações.csv
 
 Até o momento nosso web crawler coleta apenas dados dos endereços das páginas `http://quotes.toscrape.com/page/1` e `http://quotes.toscrape.com/page/2`, porém, é possível visitarmos cada uma das páginas do website para fazer uma coleta completa de dados.
 
-![Botão Próximo](img/proxima_pagina_btn.png "Paginador - Botão Próximo")
+![Botão Próximo](img/proxima_pagina.png "Paginador - Botão Próximo")
 
 ```html
 <ul class="pager">
